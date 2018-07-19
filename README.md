@@ -18,4 +18,4 @@ ui.R, server.R, .html, .css, /images
 
 **Links**
  * Shiny app for next word perdiction is running at https://alan200.shinyapps.io/nextWordPredict/
- * Presentation explaining approach and alogorithm is available at http://github.com/alan200/DataScience-Capstone/index.html
+ * Presentation explaining approach and alogorithm is available at http://github.io/alan200/DataScience-Capstone/index.html
