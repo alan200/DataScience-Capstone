@@ -42,7 +42,7 @@ shinyUI(fluidPage(titlePanel("Next Word Prediction Application: Data Science Cap
                           hr(),
                           br(),
                           "This app is created by ",
-                          a("Pradeep K. Pant", href = "mailto:ppant@cpan.org"),
+                          a("Alan Ko", href = ""),
                           img(src = "https://i.stack.imgur.com/2vMyg.jpg?s=64&g=1"),
                           hr(),
                           p(img(src = "http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/512x512/Linkedin-Icon.png", height=30, width=40), strong(em(a("Connect at Linkedin",href="https://in.linkedin.com/in/ppant")))),
